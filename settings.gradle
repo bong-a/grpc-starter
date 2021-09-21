@@ -1,0 +1,7 @@
+rootProject.name = 'grpc-starter'
+
+include "grpc-interface-starter"
+include "grpc-server-starter"
+include "grpc-client-starter"
+
+
